@@ -108,5 +108,4 @@ This project is licensed under the MIT License.
 
 ## **Author**
 **Mariam Badr**  
-- LinkedIn: 
-- GitHub: [Your GitHub Profile](#)
+- LinkedIn: https://www.linkedin.com/in/mariam-badr2
