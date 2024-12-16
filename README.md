@@ -73,18 +73,8 @@ Key visualizations and analyses performed include:
 3. **Top Manufacturers**:
    - Bar chart showing the most frequent vehicle manufacturers in the dataset.
 
-4. **Condition Analysis**:
-   - Distribution of vehicle condition across various categories.
-
 5. **Fuel Type Analysis**:
    - Pie chart showing the percentage breakdown of vehicles by fuel type.
-
-6. **Odometer Reading Distribution**:
-   - Box plot to detect outliers and analyze mileage data.
-
-7. **Geospatial Analysis**:
-   - Visualization of vehicle listings on a map using latitude and longitude.
-
 ---
 
 ## **Tools and Libraries Used**
